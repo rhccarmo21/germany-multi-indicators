@@ -19,8 +19,6 @@ O projeto faz parte de um portfólio de análises estruturadas com dados públic
 ## 📊 Estrutura de Diretórios
 
 ```
-## 📂 Estrutura do Diretório
-```text
 README.md
 comparacao_tendencias_alemanha.png
 dados_alemanha_1990_2017.csv
