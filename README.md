@@ -97,15 +97,6 @@ Todos os resultados estão organizados na pasta `resultados/` de cada estudo.
 
 ---
 
-## 📈 Próximos Passos
-
-1. Comparar a Alemanha com outros países da União Europeia
-2. Detalhar setores específicos (energia, transporte, indústria)
-3. Projetar tendências futuras e simular cenários de políticas públicas
-4. Automatizar a atualização de dados e visualizações
-
----
-
 ## 📎 Download de Dados
 
 Os arquivos CSV e gráficos podem ser baixados diretamente da pasta `dados/` e `visualizacoes/` de cada estudo, ou consultados via scripts Python com API.
