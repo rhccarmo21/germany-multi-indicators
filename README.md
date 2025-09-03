@@ -19,30 +19,17 @@ O projeto faz parte de um portfólio de análises estruturadas com dados públic
 ## 📊 Estrutura de Diretórios
 
 ```
-multiplos_indicadores/
-│
-├── alemanha/
-│   ├── 01_ambiente/
-│   │   ├── dados/             # CSV, XLSX ou JSON com indicadores ambientais
-│   │   ├── scripts/           # Scripts Python para download, tratamento e visualização
-│   │   ├── visualizacoes/     # Gráficos e imagens geradas
-│   │   └── resultados/        # Resumos, PDFs e análises finais
-│   │
-│   ├── 02_desigualdade/
-│   │   ├── dados/
-│   │   ├── scripts/
-│   │   ├── visualizacoes/
-│   │   └── resultados/
-│   │
-│   └── 03_capital_humano/
-│       ├── dados/
-│       ├── scripts/
-│       ├── visualizacoes/
-│       └── resultados/
-│
-└── outros_paises/
-```
-
+## 📂 Estrutura do Diretório
+```text
+README.md
+comparacao_tendencias_alemanha.png
+dados_alemanha_1990_2017.csv
+dados_ambientais_alemanha.csv
+dados_completos_alemanha.csv
+economia_populacao_alemanha.png
+emissoes_ghg_alemanha.png
+intensidade_carbono_alemanha.png
+pm25_alemanha.png
 ---
 
 ## 📂 Indicadores Utilizados
