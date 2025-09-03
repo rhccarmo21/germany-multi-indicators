@@ -67,10 +67,6 @@ Todos os scripts foram estruturados para:
 3. Gerar gráficos e visualizações em alta qualidade
 4. Salvar resultados em pastas específicas por estudo
 
-> Exemplo de uso do script Python:
-```bash
-python scripts/download_indicadores.py --pais DEU --estudo ambiente
-```
 
 ---
 
